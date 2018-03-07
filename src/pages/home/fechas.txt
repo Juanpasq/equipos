@@ -1,0 +1,81 @@
+// primera fecha //
+
+Rusia - arabia
+egipto - uruguay
+
+marruecos - iran
+portugal - españa
+
+francia - australia
+peru - dinamarca
+
+argentina - islandia
+croacia - nigeria
+
+costarica - serbia
+brasil - suiza
+
+alemania - mexico
+suecia - corea S
+
+belgica - panama
+tunez - inglaterrra
+
+colombia - japon
+polonia - senegal
+
+// segunda fecha //
+
+rusia - egipto
+uruguay - arabia
+
+portugal - marruecos
+iran - españa
+
+dinamarca - australia
+francia - peru
+
+argentina - croacia
+nigeria- islandia
+
+brasil - costarica
+serbia - suiza
+
+corea - mexico
+alemania - suecia
+
+inglaterra - panama
+belgica - tunez
+
+japon - senegal
+polonia - colombia
+
+
+// tercera fecha //
+
+uruguay - rusia
+arabia - egipto
+
+españa - marruecos
+iran - portugal
+
+dinamarca - francia
+australia - peru
+
+islandia - croacia
+nigeria -argentina
+
+serbia - brasil
+suiza - costarica
+
+corea - alemania
+mexico - suecia
+
+inglaterra - belgica
+panama - tunez
+
+japon - polonia
+senegal - colombia
+
+
+
